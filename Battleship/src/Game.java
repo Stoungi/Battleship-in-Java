@@ -259,7 +259,7 @@ public class Game {
 
 
             field.drawboards(bot, npc.getTiles(), true);
-
+            field.drawboards(player, pc.getTiles(), false);
 
 
 //=======================================================================================
